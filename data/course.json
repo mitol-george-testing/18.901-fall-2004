@@ -1,0 +1,27 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "476ff88b-974b-2ce2-ca6e-5628ee1bdc98"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Topology",
+  "course_description": "This course introduces topology, covering topics fundamental to modern analysis and geometry. It also deals with subjects like topological spaces and continuous functions, connectedness, compactness, separation axioms, and selected further topics such as function spaces, metrization theorems, embedding theorems and the fundamental group.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.901",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
